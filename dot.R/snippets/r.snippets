@@ -99,7 +99,7 @@ snippet shinyapp
 	shinyApp(ui, server)
 
 snippet rotate
-	theme(axis.text.${1:x}=element_text(angle=${2:90}, hjust=${3:1}))
+	theme(axis.text.${1:x} = element_text(angle = ${2:90}, hjust = ${3:1}, vjust = {$4:0.5}))
 
 snippet setgen
 	setGeneric("${1:name}", signature=c("${2:x}"),
