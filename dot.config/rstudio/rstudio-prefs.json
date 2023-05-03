@@ -44,7 +44,7 @@
     "reuse_sessions_for_project_links": true,
     "posix_terminal_shell": "bash",
     "jobs_tab_visibility": "shown",
-    "initial_working_directory": "~/workspace/facilebio/internal/DenaliEyrie",
+    "initial_working_directory": "~/workspace",
     "show_hidden_files": true,
     "load_workspace": false,
     "default_sweave_engine": "knitr",
