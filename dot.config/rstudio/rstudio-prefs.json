@@ -21,7 +21,8 @@
             "Plots",
             "Packages",
             "Help",
-            "Viewer"
+            "Viewer",
+            "Presentations"
         ],
         "hiddenTabSet": [],
         "console_left_on_top": false,
@@ -49,5 +50,6 @@
     "load_workspace": false,
     "default_sweave_engine": "knitr",
     "default_latex_program": "XeLaTeX",
-    "source_with_echo": true
+    "source_with_echo": true,
+    "insert_native_pipe_operator": true
 }
